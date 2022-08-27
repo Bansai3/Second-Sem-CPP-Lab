@@ -1,0 +1,18 @@
+[submodule "Lab1"]
+	path = Lab1
+	url = https://github.com/Bansai3/GeometricObjects
+[submodule "Lab2"]
+	path = Lab2
+	url = https://github.com/Bansai3/Currencies
+[submodule "Lab3"]
+	path = Lab3
+	url = https://github.com/Bansai3/RingBuffer
+[submodule "Lab4"]
+	path = Lab4
+	url = https://github.com/Bansai3/Rubik_Cube
+[submodule "Lab5"]
+	path = Lab5
+	url = https://github.com/Bansai3/Allocator
+[submodule "Lab6"]
+	path = Lab6
+	url = https://github.com/Bansai3/Compile_time
